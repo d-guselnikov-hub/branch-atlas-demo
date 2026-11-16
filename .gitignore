@@ -1,0 +1,13 @@
+/node_modules/
+/vendor/
+/var/
+/public/
+/dist/filial/
+/dist/index.html
+/dist/404.html
+/dist/kazakhstan.svg
+/atlas-geoip/
+/.env
+*.zip
+*.xlsx
+*.sqlite*

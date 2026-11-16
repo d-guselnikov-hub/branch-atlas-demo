@@ -1,0 +1,35 @@
+[
+  {
+    "id": "north",
+    "name": "Северный офис",
+    "region": "Северный регион",
+    "lat": 51.2,
+    "lon": 65.2,
+    "wall": true,
+    "files": [
+      "demo_report_north_0001"
+    ]
+  },
+  {
+    "id": "central",
+    "name": "Центральный офис",
+    "region": "Центральный регион",
+    "lat": 49.1,
+    "lon": 71.7,
+    "wall": true,
+    "files": [
+      "demo_report_central_0001"
+    ]
+  },
+  {
+    "id": "south",
+    "name": "Южный офис",
+    "region": "Южный регион",
+    "lat": 43.2,
+    "lon": 68.9,
+    "wall": true,
+    "files": [
+      "demo_report_south_0001"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"@simplewebauthn/server": "13.3.0",
+		"@simplewebauthn/browser": "13.3.0",
+		"esbuild": "0.25.12"
+	}
+}

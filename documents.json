@@ -1,0 +1,17 @@
+[
+  {
+    "id": "demo_report_north_0001",
+    "title": "Демонстрационный отчёт",
+    "url": "/sample-report.html"
+  },
+  {
+    "id": "demo_report_central_0001",
+    "title": "Демонстрационный отчёт",
+    "url": "/sample-report.html"
+  },
+  {
+    "id": "demo_report_south_0001",
+    "title": "Демонстрационный отчёт",
+    "url": "/sample-report.html"
+  }
+]
